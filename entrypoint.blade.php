@@ -1,0 +1,1 @@
+<parent-component any-props="{{ $someData }}" />
